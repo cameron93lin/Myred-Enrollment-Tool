@@ -8,7 +8,7 @@ This tool is designed for UNL Student to help them to enroll class automaticly. 
 - If it can not enroll select crouse successfully, it will try again in every 30 Minute until it enroll the crouse successfully. 
 - When it finish select crouse, it will end running.
 
-<font color=red>Note: Running multiple program at the same time may get unexpect enroll result.</font>
+Note: Running multiple program at the same time may get unexpect enroll result.
 
 ## How to Use it
 
