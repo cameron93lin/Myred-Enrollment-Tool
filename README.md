@@ -3,7 +3,7 @@ This tool is designed for UNL Student to help them to enroll class automaticly. 
 
 ## Designer
 
-Cameron as an author of [UNLGuide.com](www.unlguide.com)
+Cameron as an author of [UNLGuide](www.unlguide.com)
 
 ## Requirement
 
